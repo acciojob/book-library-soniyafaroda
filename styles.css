@@ -7,7 +7,7 @@ body {
         }
 
         .book-library {
-            background-color: #eee;
+            background-color: #ffffff;
             padding: 20px;
             max-width: 900px;
             margin: auto;
@@ -21,13 +21,12 @@ body {
 
         .book {
             width: 250px;
-            background-color: #fff;
             border: 1px solid #eee;
             border-radius: 10px;
             text-align: center;
             margin: 15px;
             padding: 15px;
-            box-shadow: 0 1px 5px rgb(46, 204, 113);
+            box-shadow: 0 1px 5px rgba(0,0,0,0.1);
         }
 
          img {
