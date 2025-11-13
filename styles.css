@@ -14,7 +14,6 @@ body {
             margin: auto;
             border-radius: 10px;
             box-shadow: 0 2px 8px rgb(46, 204, 113);
-            display: flex;
             justify-content: space-around;
             flex-wrap: wrap;
 			display: block;
