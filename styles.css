@@ -28,6 +28,10 @@ body {
             box-shadow: 0 1px 5px rgb(46, 204, 113);
 			background-color: rgb(46, 204, 113);
         }
+div {
+  background-color: rgb(46, 204, 113);
+}
+
 
          img {
             width: 100%;
