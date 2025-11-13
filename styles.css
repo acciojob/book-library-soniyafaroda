@@ -7,7 +7,7 @@ body {
         }
 
         .book-library {
-            background-color: #ffffff;
+            background-color: #eee;
             padding: 20px;
             max-width: 900px;
             margin: auto;
@@ -16,6 +16,7 @@ body {
             display: flex;
             justify-content: space-around;
             flex-wrap: wrap;
+			display: block;
         }
 
         .book {
@@ -40,16 +41,19 @@ body {
             margin: 10px 0 5px 0;
             font-size: 18px;
             color: #333;
+			text-align: left;
         }
 
         .book p.author {
             color: #777777;
             margin: 5px 0;
             font-size: 14px;
+			text-align: left;
         }
 
         .book p.price {
-            color: #2ecc71;
+            background-color: #2ecc71;
             font-weight: bold;
             font-size: 16px;
+			color:white;
         }
